@@ -32,6 +32,7 @@ Update the application code in
 
 Then add/commit/push to gitlab
 
+
 ```
 git status # to see your changes
 ```
@@ -72,3 +73,5 @@ Default web root:
 ```
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
+
+ Checking if jenkins webhook configuration is working
