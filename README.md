@@ -72,6 +72,5 @@ Default web root:
 /usr/share/nginx/html
 ```
 
-## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
-
- God please don't give me more than I can carry
+## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix
+I know that what I am doing is out of love and Love can't hurt me
