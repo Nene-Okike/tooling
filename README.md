@@ -74,3 +74,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix
 I know that what I am doing is out of love and Love can't hurt me
+If you dare,you can win
